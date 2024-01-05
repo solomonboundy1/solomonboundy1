@@ -12,7 +12,7 @@
   
 - 🔭 I’m currently studying with **AiCore**
   
-- 🌱 I’m currently learning **Python, Azure, AWS**
+- 🌱 I’m currently learning **Cloud and Data Engineering using Python, Azure, AWS**
   
 - 💬 Ask me about **JavaScript, ReactJS, MySQL, or anything Music related!**
   
