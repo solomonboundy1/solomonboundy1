@@ -10,7 +10,7 @@
 
 <div align="center">
   
-- 🔭 I’m currently studying with **AiCore**
+- 🔭  Recent **AiCore** Grad
   
 - 🌱 I’m currently learning **Cloud and Data Engineering using Python, Azure, AWS**
   
